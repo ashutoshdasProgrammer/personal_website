@@ -9,7 +9,7 @@ function CodeBlock() {
           motion
           <span className="text-gray-400">{"}"}</span>{" "}
           <span className="text-blue-500">from</span>{" "}
-          <span className="text-purple-500">"framer-motion"</span>;
+          <span className="text-purple-500">"React-motion"</span>;
         </div>
 
         <div className="pl-2">
